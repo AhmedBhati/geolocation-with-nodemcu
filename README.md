@@ -13,3 +13,7 @@ It gives following details
 * Latitude/Longitude
 * ISP
 * Timezone
+* Global IP address
+* Public IP address
+
+This library uses Esp8266WiFi.h hence download it. Before using this library. 
