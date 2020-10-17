@@ -2,7 +2,7 @@
 
 ### Download the repository and directly run it no need of any authentication key.
 
-It fives following details
+It gives following details
 * Status
 * Country
 * State/Region
